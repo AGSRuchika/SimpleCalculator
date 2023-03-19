@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .btn-primary {
 	  background-color: #214e8f;
 	    color: white;
@@ -27,3 +28,9 @@
 					    height: auto;
 				    }
 
+=======
+.header-logo {
+	  width: 100px;
+	    height: auto;
+    }
+>>>>>>> develop
